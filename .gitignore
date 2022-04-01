@@ -26,3 +26,6 @@ _autosave-*
 
 # Mac OS .DS_Store
 .DS_Store
+
+# Kicad 6 backups
+*.zip
