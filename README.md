@@ -12,4 +12,4 @@ Expect some flicker when driving LEDs with the ESP8266. It gets much more stable
 
 There is a preferred version of this board with 8x PWM channels and individual pins for powering groups of two outputs, what enables driving the full 5A per channel. Click [here](https://github.com/thermseekr/ESP-pwm-8ch) to check it.
 
-![alt text](https://github.com/thermseekr/ESP-pwm-4ch/blob/main/V2/ESP-pwm_4ch-V2.png "ESP-pwm-4ch")
+![alt text](https://github.com/thermseekr/ESP-pwm-4ch/blob/main/V2/ESP-pwm-4ch-V2.png "ESP-pwm-4ch")
